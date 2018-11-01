@@ -22,6 +22,6 @@ basic_mean <- function(vec) {
 #'
 #' @examples
 #' make_tibble()
-make_tibble <- function() {
-  data_frame(a = 1)
-}
+#make_tibble <- function() {
+#  data_frame(a = 1)
+#}
